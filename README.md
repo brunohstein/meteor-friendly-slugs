@@ -25,7 +25,7 @@ Features
 Installation
 ------------------------
 ```
-meteor add todda00:friendly-slugs
+meteor add brunohstein:friendly-slugs
 ```
 
 Usage
